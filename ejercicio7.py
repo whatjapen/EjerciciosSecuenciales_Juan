@@ -6,3 +6,4 @@ mins=int(input("Minutos: "))
 horas=mins//60
 resto=mins%60
 print(mins,"minutos son",horas,"horas y",resto,"minutos")
+#FIN
